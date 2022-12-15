@@ -21,7 +21,8 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.beivin.AwesomeProject"
     }
   }
 }
